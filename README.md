@@ -138,7 +138,8 @@ html
 </html>
 
 ## OUTPUT
-![Alt text](<Screenshot 2023-11-06 201002.png>)
+![Screenshot 2023-11-06 201002](https://github.com/jeevansurya30/slot/assets/129417865/9bcdc06a-7be5-46a4-abdd-634035620a60)
+
 
 
 ## RESULT
