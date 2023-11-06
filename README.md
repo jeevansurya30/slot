@@ -31,10 +31,11 @@ html
 </head>
 <body>
 <center>
+<img src="https://i.ibb.co/hc30Wwc/WEB-LOGO-01.png" height="100" width="540">
 </center>
 <br>
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
-<caption><b>SLOT TIME TABLE - Jeevansurya  (212222040061)</b></caption>
+<caption><b>SLOT TIME TABLE - Lingaraja L (212222040086)</b></caption>
 <tr align="center">
 <th bgcolor="yellow">Day/Time</th>
 <th bgcolor="yellow">Monday</th>
